@@ -12,7 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "prettier": "^2.4.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
@@ -39,6 +38,7 @@
     "portfinder": "^1.0.28",
     "postcss": "^8.3.10",
     "postcss-loader": "^6.2.0",
+    "prettier": "^2.4.1",
     "pretty-quick": "^3.1.1",
     "resolve-url-loader": "^4.0.0",
     "sass": "^1.43.2",
